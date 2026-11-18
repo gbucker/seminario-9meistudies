@@ -10,5 +10,6 @@ peirce:`<p>[1,5 min] CP 5.314: "É que a palavra ou signo que o homem usa é o p
 interpretantes:`<p>[1,5 min] Peirce rejeita as teorias diádicas e introduz o interpretante (CP 4.536). Almeida (1998, p. 53): "Assim como é o receptor ou o espectador que 'realiza' a obra de arte, é o leitor que atualiza a leitura, também é o ouvinte que efetiva o chiste."</p>`,
 tese:`<p>[1 min] "Em franca oposição à concepção cartesiana do self como fonte e centro da certeza, Peirce concebeu o self como a sede do erro" (Santaella, 2006, p. 125). Self sem bordas definidas, que quer errar e se surpreender.</p>`,
 avaliar:`<p>[1,5 min] Improbotics (Mathewson et al., 2018). Mirowski et al. (2025, p. 88): público pagante em vez de pesquisadores ou crowd-sourced workers; feedback em tempo real, contexto cultural e sensorial.</p><p>Improviso herda da palhaçaria e das comédias populares. Bergson (1900/2018, p. 38): "Não há cômico fora do que é propriamente humano". Flusser (2017, pp. 42–46).</p>`,
+ia:`<p>[rápido] Declaração de uso de IA nos slides. O artigo tem declaração própria.</p>`,
 fecho:`<p>[0,5 min] Responder a pergunta. Retomar: "avaliar textos humorísticos no papel é uma piada". Ler a frase final.</p>`
 };
